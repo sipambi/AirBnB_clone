@@ -8,4 +8,3 @@ This is a Clone for the Air BnB system, which offers lodgings during vacations a
 
 # Authors
 Max Sibanda <sibandahmax@gmail.com>
-Paul Njuga <paulnjuga@gmail.com>
