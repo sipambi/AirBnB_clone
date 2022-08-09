@@ -62,4 +62,4 @@ class BaseModel:
                 dic[k] = v.isoformat()
             else:
                 dic[k] = v
-        return dicc
+        return dic
